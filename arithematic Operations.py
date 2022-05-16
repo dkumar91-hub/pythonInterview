@@ -1,6 +1,6 @@
 '''milk expenditure'''
 price_milk_per_litre=45
-days=30
+days=30.1
 expenditure_milk=price_milk_per_litre*days
 print("milk expenditure:",expenditure_milk)
 
