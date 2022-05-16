@@ -12,7 +12,7 @@ print("veg expendidure:",expenditure_veg)
 '''ration expenditure'''
 price_ration_per_month=1000
 month=1
-expenditure_ration=price_ration_per_month*month
+expenditure_ration=1000*month
 print("ration expenditure:",expenditure_ration)
 
 '''medical expenditure'''
