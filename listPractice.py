@@ -14,8 +14,8 @@ capital = ["patna","bhopal","chennai"]
 
 '''1:-print elements of list'''
 print(sports)
-subject.append("sanskrit")
 '''2:-adding elements to a list'''
+subject.append("sanskrit")
 print(subject)
 '''3:-finding index of element in a list'''
 print(subject[3])
