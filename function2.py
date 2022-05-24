@@ -24,8 +24,8 @@ xyz(list1)
 def abc(l2):
     for x in l2:
         print(l2[3])
-list2 = [5,6,7,3]
-abc(list2)
+list2 = [5,6,7,3])
+abc(list2
 def pqr(l3):
     for i in l3:
         list2.append(list3)
