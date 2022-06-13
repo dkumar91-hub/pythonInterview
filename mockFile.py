@@ -46,5 +46,15 @@ print(l3)
 l4=[x*x for x in L]
 print(l4)
 
-
+'''lamda function'''
+x=lambda a:a+10
+print(x(5))
+y=lambda b:b*5
+print(y(10))
+z=lambda c:c*c
+print(z(5))
+p=lambda d,e:d*e
+print(p(7,8))
+r=lambda x,y:x+                                                                                                                                                                   y
+print(r(2,15))
 
